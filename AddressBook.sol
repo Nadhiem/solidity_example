@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 //
-// https://cryptomarketpool.com/address-book
+
 
 pragma solidity ^0.8.0;
 
